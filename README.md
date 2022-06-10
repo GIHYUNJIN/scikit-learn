@@ -58,7 +58,7 @@
 ## 7. Dataset loading utilities
 ### 7.1. Toy datasets
 ### 7.2. Real world datasets
-###7.3. Generated datasets
+### 7.3. Generated datasets
 ### 7.4. Loading other datasets
 
 ## 8. Computing with scikit-learn
